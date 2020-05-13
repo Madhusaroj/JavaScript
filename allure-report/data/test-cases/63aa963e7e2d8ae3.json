@@ -1,0 +1,147 @@
+{
+  "uid" : "63aa963e7e2d8ae3",
+  "name" : "Verify SignUp Link",
+  "fullName" : "Login Page Features.Verify SignUp Link",
+  "historyId" : "9e20a22f14869ba8eeafc38ed639ab3c",
+  "time" : {
+    "start" : 1588850596674,
+    "stop" : 1588850596771,
+    "duration" : 97
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1588850596677,
+        "stop" : 1588850596716,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "976d11820dc2f430",
+        "name" : "Request",
+        "source" : "976d11820dc2f430.json",
+        "type" : "application/json",
+        "size" : 48
+      }, {
+        "uid" : "46e2c61ee24c28b3",
+        "name" : "Response",
+        "source" : "46e2c61ee24c28b3.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1588850596730,
+        "stop" : 1588850596752,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "59737354d5135350",
+        "name" : "Request",
+        "source" : "59737354d5135350.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "2bf6eb8820afab21",
+        "name" : "Response",
+        "source" : "2bf6eb8820afab21.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1588850596753,
+        "stop" : 1588850596769,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2dacc9c8ae3d06e6",
+        "name" : "Request",
+        "source" : "2dacc9c8ae3d06e6.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "e1b014448e2c836a",
+        "name" : "Response",
+        "source" : "e1b014448e2c836a.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Features"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Features"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SignUp Link"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Features"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63aa963e7e2d8ae3.json",
+  "parameterValues" : [ "chrome" ]
+}

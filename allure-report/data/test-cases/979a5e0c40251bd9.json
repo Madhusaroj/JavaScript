@@ -1,0 +1,299 @@
+{
+  "uid" : "979a5e0c40251bd9",
+  "name" : "Verify login Page title",
+  "fullName" : "Login Page Feature Test.Verify login Page title",
+  "historyId" : "63bb1632d533729315841ab4018bf458",
+  "time" : {
+    "start" : 1589193132023,
+    "stop" : 1589193142411,
+    "duration" : 10388
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193132210,
+        "stop" : 1589193134079,
+        "duration" : 1869
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193134107,
+        "stop" : 1589193134115,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193134592,
+        "stop" : 1589193134596,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193135120,
+        "stop" : 1589193135124,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193135590,
+        "stop" : 1589193135594,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193136093,
+        "stop" : 1589193136101,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193136596,
+        "stop" : 1589193136596,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193137096,
+        "stop" : 1589193137101,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193137595,
+        "stop" : 1589193137604,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193138084,
+        "stop" : 1589193138091,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193138589,
+        "stop" : 1589193138589,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193142395,
+        "stop" : 1589193142399,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193142407,
+        "stop" : 1589193142407,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 13,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify login Page title"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.18363"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d91f66d6fe0dcdc0",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1589193008940,
+        "stop" : 1589193011678,
+        "duration" : 2738
+      }
+    }, {
+      "uid" : "4adb779bb44a204c",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1589192926572,
+        "stop" : 1589192929217,
+        "duration" : 2645
+      }
+    }, {
+      "uid" : "4f5c9a77fdb27bdf",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1589192863118,
+        "stop" : 1589192866329,
+        "duration" : 3211
+      }
+    }, {
+      "uid" : "f75086a251754e8a",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1588938517081,
+        "stop" : 1588938519937,
+        "duration" : 2856
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "979a5e0c40251bd9.json",
+  "parameterValues" : [ "Chrome-10.0.18363" ]
+}

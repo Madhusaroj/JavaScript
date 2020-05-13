@@ -1,0 +1,101 @@
+{
+  "uid" : "331454f63c8fe7d1",
+  "name" : "Verify SignUp Link",
+  "fullName" : "Login Page Feature Test.Verify SignUp Link",
+  "historyId" : "6ac6c73fdfed42dd897a4012e5255cf3",
+  "time" : {
+    "start" : 1589192929221,
+    "stop" : 1589192930317,
+    "duration" : 1096
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "net::ERR_ABORTED at https://app.hubspot.com/",
+  "statusTrace" : "net::ERR_ABORTED at https://app.hubspot.com/\n                    at Frame.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\helper.js:82:19)\n                    at Page.goto (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\Page.js:440:53)\n                    at Page.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\helper.js:83:27)\n                    at DevToolsDriver.navigateTo (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\commands\\navigateTo.js:13:14)\n                    at Browser.wrappedCommand (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\devtoolsdriver.js:92:47)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\test\\login.test.js:22:17)\n                    at Context.executeSync (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "net::ERR_ABORTED at https://app.hubspot.com/",
+    "statusTrace" : "net::ERR_ABORTED at https://app.hubspot.com/\n                    at Frame.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\helper.js:82:19)\n                    at Page.goto (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\Page.js:440:53)\n                    at Page.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\helper.js:83:27)\n                    at DevToolsDriver.navigateTo (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\commands\\navigateTo.js:13:14)\n                    at Browser.wrappedCommand (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\devtoolsdriver.js:92:47)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\test\\login.test.js:22:17)\n                    at Context.executeSync (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589192929229,
+        "stop" : 1589192930317,
+        "duration" : 1088
+      },
+      "status" : "broken",
+      "statusMessage" : "net::ERR_ABORTED at https://app.hubspot.com/\n                    at Frame.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\helper.js:82:19)\n                    at Page.goto (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\Page.js:440:53)\n                    at Page.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\puppeteer-core\\lib\\helper.js:83:27)\n                    at DevToolsDriver.navigateTo (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\commands\\navigateTo.js:13:14)\n                    at Browser.wrappedCommand (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\devtoolsdriver.js:92:47)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\test\\login.test.js:22:17)\n                    at Context.executeSync (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+      "steps" : [ {
+        "name" : "undefined undefined",
+        "time" : {
+          "start" : 1589192929737,
+          "stop" : 1589192930317,
+          "duration" : 580
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 1,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SignUp Link"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.18363"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "331454f63c8fe7d1.json",
+  "parameterValues" : [ "Chrome-10.0.18363" ]
+}

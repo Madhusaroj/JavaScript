@@ -1,0 +1,250 @@
+{
+  "uid" : "376af5f0a63432ae",
+  "name" : "Verify SignUp Link",
+  "fullName" : "Login Page Features.Verify SignUp Link",
+  "historyId" : "9e20a22f14869ba8eeafc38ed639ab3c",
+  "time" : {
+    "start" : 1588851512718,
+    "stop" : 1588851512868,
+    "duration" : 150
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1588851512722,
+        "stop" : 1588851512790,
+        "duration" : 68
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b857d8ac37cacbeb",
+        "name" : "Request",
+        "source" : "b857d8ac37cacbeb.json",
+        "type" : "application/json",
+        "size" : 48
+      }, {
+        "uid" : "998014068ba5284c",
+        "name" : "Response",
+        "source" : "998014068ba5284c.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1588851512805,
+        "stop" : 1588851512849,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "337954092c920f9e",
+        "name" : "Request",
+        "source" : "337954092c920f9e.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "ee8ddec3f1e1e209",
+        "name" : "Response",
+        "source" : "ee8ddec3f1e1e209.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1588851512850,
+        "stop" : 1588851512867,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5d2a0d5fe13dca9d",
+        "name" : "Request",
+        "source" : "5d2a0d5fe13dca9d.json",
+        "type" : "application/json",
+        "size" : 5306
+      }, {
+        "uid" : "e88195eec776808a",
+        "name" : "Response",
+        "source" : "e88195eec776808a.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Features"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Features"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SignUp Link"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Features"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5a9c0a79493bf7be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851428630,
+        "stop" : 1588851428730,
+        "duration" : 100
+      }
+    }, {
+      "uid" : "3f71c07b593c6067",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851372571,
+        "stop" : 1588851372683,
+        "duration" : 112
+      }
+    }, {
+      "uid" : "a9db608826a9a91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851275178,
+        "stop" : 1588851275291,
+        "duration" : 113
+      }
+    }, {
+      "uid" : "65b477a34d7f22ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851061332,
+        "stop" : 1588851061434,
+        "duration" : 102
+      }
+    }, {
+      "uid" : "1e68481f5ce05553",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850649868,
+        "stop" : 1588850649981,
+        "duration" : 113
+      }
+    }, {
+      "uid" : "63aa963e7e2d8ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850596674,
+        "stop" : 1588850596771,
+        "duration" : 97
+      }
+    }, {
+      "uid" : "7046d7a0e5dfabb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850513133,
+        "stop" : 1588850513231,
+        "duration" : 98
+      }
+    }, {
+      "uid" : "dbacb0f54ebb0787",
+      "status" : "broken",
+      "statusDetails" : "assert.equals is not a function",
+      "time" : {
+        "start" : 1588850413726,
+        "stop" : 1588850414200,
+        "duration" : 474
+      }
+    }, {
+      "uid" : "6cb8902f02ec15d2",
+      "status" : "broken",
+      "statusDetails" : "element (\"=Sign Up\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1588850336016,
+        "stop" : 1588850346477,
+        "duration" : 10461
+      }
+    }, {
+      "uid" : "b465851800763539",
+      "status" : "broken",
+      "statusDetails" : "element (\"=Sign Up\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1588850274410,
+        "stop" : 1588850284850,
+        "duration" : 10440
+      }
+    }, {
+      "uid" : "e1382da266aec41d",
+      "status" : "broken",
+      "statusDetails" : "element (\"=Sign Up\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1588850140392,
+        "stop" : 1588850150749,
+        "duration" : 10357
+      }
+    }, {
+      "uid" : "93c5712c1c53325d",
+      "status" : "broken",
+      "statusDetails" : "element (\"=Sign Up\") still not displayed after 10000ms",
+      "time" : {
+        "start" : 1588850022398,
+        "stop" : 1588850032851,
+        "duration" : 10453
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "376af5f0a63432ae.json",
+  "parameterValues" : [ "chrome" ]
+}

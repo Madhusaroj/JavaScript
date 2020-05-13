@@ -1,0 +1,265 @@
+{
+  "uid" : "e21dfa015b40bee2",
+  "name" : "Login To Application",
+  "fullName" : "Login Page Feature Test.Login To Application",
+  "historyId" : "524011ab6fac6d7904cb85c4ccf7cdc",
+  "time" : {
+    "start" : 1589193143574,
+    "stop" : 1589193146658,
+    "duration" : 3084
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193145561,
+        "stop" : 1589193145577,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193145605,
+        "stop" : 1589193145625,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193145633,
+        "stop" : 1589193145641,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193145661,
+        "stop" : 1589193146274,
+        "duration" : 613
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146278,
+        "stop" : 1589193146282,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146298,
+        "stop" : 1589193146314,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146322,
+        "stop" : 1589193146326,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146334,
+        "stop" : 1589193146502,
+        "duration" : 168
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146506,
+        "stop" : 1589193146510,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146522,
+        "stop" : 1589193146530,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193146538,
+        "stop" : 1589193146654,
+        "duration" : 116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 11,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login To Application"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.18363"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7f1af4cea4c887ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589193012665,
+        "stop" : 1589193020213,
+        "duration" : 7548
+      }
+    }, {
+      "uid" : "1c680dc5aeef9793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589192930317,
+        "stop" : 1589192939295,
+        "duration" : 8978
+      }
+    }, {
+      "uid" : "e9d045d86f074752",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589192867382,
+        "stop" : 1589192875797,
+        "duration" : 8415
+      }
+    }, {
+      "uid" : "c4e90976544647a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938520965,
+        "stop" : 1588938529247,
+        "duration" : 8282
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e21dfa015b40bee2.json",
+  "parameterValues" : [ "Chrome-10.0.18363" ]
+}

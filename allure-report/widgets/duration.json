@@ -1,0 +1,191 @@
+[ {
+  "uid" : "376af5f0a63432ae",
+  "name" : "Verify SignUp Link",
+  "time" : {
+    "start" : 1588851512718,
+    "stop" : 1588851512868,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eae53c011f352b57",
+  "name" : "Testing",
+  "time" : {
+    "start" : 1589193132024,
+    "stop" : 1589193132198,
+    "duration" : 174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5083a2ba5a051efa",
+  "name" : "Login To Application",
+  "time" : {
+    "start" : 1588851512868,
+    "stop" : 1588851514148,
+    "duration" : 1280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17dfa521233ef3a4",
+  "name" : "Verify SignUp Link",
+  "time" : {
+    "start" : 1589261195129,
+    "stop" : 1589261197590,
+    "duration" : 2461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2adfeefcece8c86d",
+  "name" : "Verify SignUp Link",
+  "time" : {
+    "start" : 1589193142411,
+    "stop" : 1589193143574,
+    "duration" : 1163
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e21dfa015b40bee2",
+  "name" : "Login To Application",
+  "time" : {
+    "start" : 1589193143574,
+    "stop" : 1589193146658,
+    "duration" : 3084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb88f3875f5c06ae",
+  "name" : "Login To Application",
+  "time" : {
+    "start" : 1589261171831,
+    "stop" : 1589261174243,
+    "duration" : 2412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "979a5e0c40251bd9",
+  "name" : "Verify login Page title",
+  "time" : {
+    "start" : 1589193132023,
+    "stop" : 1589193142411,
+    "duration" : 10388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2483e335edeb7931",
+  "name" : "Testing",
+  "time" : {
+    "start" : 1589261158796,
+    "stop" : 1589261158972,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15c3960e5c3797d7",
+  "name" : "Login To Application",
+  "time" : {
+    "start" : 1589261197590,
+    "stop" : 1589261199614,
+    "duration" : 2024
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2c821f99f263dcd",
+  "name" : "Verify login Page title",
+  "time" : {
+    "start" : 1589261158799,
+    "stop" : 1589261168307,
+    "duration" : 9508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c81903d872ff42c",
+  "name" : "Verify login Page title",
+  "time" : {
+    "start" : 1588851503709,
+    "stop" : 1588851512716,
+    "duration" : 9007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b789dffc87db2f7a",
+  "name" : "Login To Application",
+  "time" : {
+    "start" : 1589187979420,
+    "stop" : 1589187981116,
+    "duration" : 1696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5448007765031a4",
+  "name" : "Testing",
+  "time" : {
+    "start" : 1589187962212,
+    "stop" : 1589187962352,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bf5ac120c2b032d",
+  "name" : "Verify SignUp Link",
+  "time" : {
+    "start" : 1589261168311,
+    "stop" : 1589261171831,
+    "duration" : 3520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc89f140088e30f",
+  "name" : "Testing",
+  "time" : {
+    "start" : 1589261176489,
+    "stop" : 1589261176633,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e299e6072986437e",
+  "name" : "Verify SignUp Link",
+  "time" : {
+    "start" : 1589187976811,
+    "stop" : 1589187979420,
+    "duration" : 2609
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0c32093350a684c",
+  "name" : "Verify login Page title",
+  "time" : {
+    "start" : 1589187968516,
+    "stop" : 1589187976811,
+    "duration" : 8295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b82b694dbb5da848",
+  "name" : "Verify login Page title",
+  "time" : {
+    "start" : 1589261187886,
+    "stop" : 1589261195129,
+    "duration" : 7243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

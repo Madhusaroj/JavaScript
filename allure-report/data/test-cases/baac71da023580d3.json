@@ -1,0 +1,56 @@
+{
+  "uid" : "baac71da023580d3",
+  "name" : "Testing",
+  "fullName" : "Test.Testing",
+  "historyId" : "c39a39cceab5d03070eb2229d2f7bb52",
+  "time" : {
+    "start" : 1589256782465,
+    "stop" : 1589256782682,
+    "duration" : 217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing"
+  }, {
+    "name" : "package",
+    "value" : "Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-10.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baac71da023580d3.json",
+  "parameterValues" : [ "firefox-10.0" ]
+}

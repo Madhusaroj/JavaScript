@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Command \"maximizeWindow\" is not yet implemented",
+      "children" : [ {
+        "name" : "Verify SignUp Link",
+        "uid" : "2adfeefcece8c86d",
+        "parentUid" : "59474a2dfe3669a8141cd25b54838f39",
+        "status" : "broken",
+        "time" : {
+          "start" : 1589193142411,
+          "stop" : 1589193143574,
+          "duration" : 1163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome-10.0.18363" ]
+      } ],
+      "uid" : "59474a2dfe3669a8141cd25b54838f39"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

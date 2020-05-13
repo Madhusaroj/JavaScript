@@ -1,0 +1,1919 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Testing",
+      "uid" : "73e906d263b1fa97",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589192855064,
+        "stop" : 1589192855253,
+        "duration" : 189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "e48b69b4c07f7461",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171700039,
+        "stop" : 1589171700123,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "df184888c176dcbb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850346477,
+        "stop" : 1588850347394,
+        "duration" : 917
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "63aa963e7e2d8ae3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850596674,
+        "stop" : 1588850596771,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "fc4ad4c13b55c8c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851275291,
+        "stop" : 1588851276462,
+        "duration" : 1171
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "37e0056646d82649",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588851045208,
+        "stop" : 1588851061331,
+        "duration" : 16123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "b465851800763539",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850274410,
+        "stop" : 1588850284850,
+        "duration" : 10440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "3b4896e4b9fe547c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588851356490,
+        "stop" : 1588851372570,
+        "duration" : 16080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "4c81903d872ff42c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851503709,
+        "stop" : 1588851512716,
+        "duration" : 9007
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "4b01d9ba908da674",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850021888,
+        "stop" : 1588850022397,
+        "duration" : 509
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "9e7a61a94936664f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588851215075,
+        "stop" : 1588851275177,
+        "duration" : 60102
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "e4465f99b706e475",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589192926572,
+        "stop" : 1589192926703,
+        "duration" : 131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "ec4f0b1f3b214c08",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256705175,
+        "stop" : 1589256705314,
+        "duration" : 139
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "42feae0f2da0b900",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938632289,
+        "stop" : 1588938632434,
+        "duration" : 145
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "64ca834d5d745231",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851061434,
+        "stop" : 1588851062685,
+        "duration" : 1251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "6c00f8f158436dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850322087,
+        "stop" : 1588850336015,
+        "duration" : 13928
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "a5448007765031a4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187962212,
+        "stop" : 1589187962352,
+        "duration" : 140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "93c5712c1c53325d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850022398,
+        "stop" : 1588850032851,
+        "duration" : 10453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "7aa4325db8921811",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588933080051,
+        "stop" : 1588933088225,
+        "duration" : 8174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "dbacb0f54ebb0787",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850413726,
+        "stop" : 1588850414200,
+        "duration" : 474
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "fb49697ade345b66",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850150749,
+        "stop" : 1588850210751,
+        "duration" : 60002
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "eae53c011f352b57",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589193132024,
+        "stop" : 1589193132198,
+        "duration" : 174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "376af5f0a63432ae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851512718,
+        "stop" : 1588851512868,
+        "duration" : 150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "47f23742d960320e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938162513,
+        "stop" : 1588938162657,
+        "duration" : 144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "b5f14c1f5c98cee9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171515376,
+        "stop" : 1589171515494,
+        "duration" : 118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "4f1660c51b81d85d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850260290,
+        "stop" : 1588850274409,
+        "duration" : 14119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "fb546d5847a293d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938254942,
+        "stop" : 1588938255118,
+        "duration" : 176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "fcc34fc338869d79",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1588854259973,
+        "stop" : 0,
+        "duration" : -1588854259973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "2483e335edeb7931",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261158796,
+        "stop" : 1589261158972,
+        "duration" : 176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "1751d2ab869eb7ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850596772,
+        "stop" : 1588850597724,
+        "duration" : 952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "e69e9d408d61ad0f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850399704,
+        "stop" : 1588850413725,
+        "duration" : 14021
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "53ae9afad636c951",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589193008944,
+        "stop" : 1589193009102,
+        "duration" : 158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "1c86073b9c7a21ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588854217411,
+        "stop" : 1588854225339,
+        "duration" : 7928
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "81a43fe6d5ac89d1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256537814,
+        "stop" : 1589256538006,
+        "duration" : 192
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "be82e66d51acf422",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588933319846,
+        "stop" : 1588933321172,
+        "duration" : 1326
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "fb750388eacb287d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938517080,
+        "stop" : 1588938517268,
+        "duration" : 188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "4914babf34ed7341",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588933317756,
+        "stop" : 1588933319845,
+        "duration" : 2089
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "ddcd4b92ee2ea9d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588933090461,
+        "stop" : 1588933091581,
+        "duration" : 1120
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "a9db608826a9a91",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851275178,
+        "stop" : 1588851275291,
+        "duration" : 113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "d843440df5bed449",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256624042,
+        "stop" : 1589256624598,
+        "duration" : 556
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "8f15bfefdb57ed19",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588854225339,
+        "stop" : 1588854225449,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "5083a2ba5a051efa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851512868,
+        "stop" : 1588851514148,
+        "duration" : 1280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "679dfa65f1236398",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850649981,
+        "stop" : 1588850650937,
+        "duration" : 956
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "9720ab4916387108",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850635832,
+        "stop" : 1588850649868,
+        "duration" : 14036
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "7046d7a0e5dfabb0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850513133,
+        "stop" : 1588850513231,
+        "duration" : 98
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "45572ff708980107",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588933088226,
+        "stop" : 1588933090461,
+        "duration" : 2235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "7c5b0f8af44ed5db",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1588854269304,
+        "stop" : 0,
+        "duration" : -1588854269304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "3f71c07b593c6067",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851372571,
+        "stop" : 1588851372683,
+        "duration" : 112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "794d599a83a068a4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1588854271665,
+        "stop" : 1588854274878,
+        "duration" : 3213
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "791afbf56fbc9186",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256764966,
+        "stop" : 1589256765170,
+        "duration" : 204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "91cadb33b336ebec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850414200,
+        "stop" : 1588850415211,
+        "duration" : 1011
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "9a9838e956cf38b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850582647,
+        "stop" : 1588850596674,
+        "duration" : 14027
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "12f93c91634605aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588854225449,
+        "stop" : 1588854227061,
+        "duration" : 1612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "8cd463e2d2fd4e60",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187853620,
+        "stop" : 1589187853816,
+        "duration" : 196
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "13cbb603803c57f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851372684,
+        "stop" : 1588851373675,
+        "duration" : 991
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "2fad83cf2eb18c07",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171668450,
+        "stop" : 1589171668576,
+        "duration" : 126
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "9827d12471628f72",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851428730,
+        "stop" : 1588851429734,
+        "duration" : 1004
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "31a204ef7d7724d0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850032851,
+        "stop" : 1588850043239,
+        "duration" : 10388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "289ff6da07abc1f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588934089271,
+        "stop" : 1588934089396,
+        "duration" : 125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "e17c4cd9754caadb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938096341,
+        "stop" : 1588938099020,
+        "duration" : 2679
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "77fb0f24ba770a4b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588933309168,
+        "stop" : 1588933317756,
+        "duration" : 8588
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "5bdb50465bec312c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850284850,
+        "stop" : 1588850286009,
+        "duration" : 1159
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "6cb8902f02ec15d2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850336016,
+        "stop" : 1588850346477,
+        "duration" : 10461
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "bd8e5df5a5a9de08",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938099024,
+        "stop" : 1588938101001,
+        "duration" : 1977
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "65b477a34d7f22ce",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851061332,
+        "stop" : 1588851061434,
+        "duration" : 102
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "5e686ce91efcb1a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171025056,
+        "stop" : 1589171025126,
+        "duration" : 70
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "bb153e63b492df59",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850499041,
+        "stop" : 1588850513132,
+        "duration" : 14091
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "ba483c9d1abce110",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171431530,
+        "stop" : 1589171431631,
+        "duration" : 101
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "c338f9f07639ea3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588851412570,
+        "stop" : 1588851428630,
+        "duration" : 16060
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "5a9c0a79493bf7be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588851428630,
+        "stop" : 1588851428730,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "cda608667f27b94c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850513232,
+        "stop" : 1588850514697,
+        "duration" : 1465
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "e1382da266aec41d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850140392,
+        "stop" : 1588850150749,
+        "duration" : 10357
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "1e68481f5ce05553",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588850649868,
+        "stop" : 1588850649981,
+        "duration" : 113
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "f5919c763576dcce",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588850139881,
+        "stop" : 1588850140391,
+        "duration" : 510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "d83c90235e89e8d8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938087070,
+        "stop" : 1588938096341,
+        "duration" : 9271
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Login To Application",
+      "uid" : "1c680dc5aeef9793",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589192930317,
+        "stop" : 1589192939295,
+        "duration" : 8978
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "7755ddae8cd79000",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256624324,
+        "stop" : 1589256633528,
+        "duration" : 9204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "7bf5ac120c2b032d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261168311,
+        "stop" : 1589261171831,
+        "duration" : 3520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "c5bfd8bfa8912e00",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171678705,
+        "stop" : 1589171679647,
+        "duration" : 942
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "55c24a258dec8251",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256780210,
+        "stop" : 1589256782183,
+        "duration" : 1973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "9c9363386ac81c93",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171710898,
+        "stop" : 1589171711952,
+        "duration" : 1054
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "4adb779bb44a204c",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589192926572,
+        "stop" : 1589192929217,
+        "duration" : 2645
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "e5d72c5c0910be26",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938640719,
+        "stop" : 1588938643989,
+        "duration" : 3270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "fc6c124a349f8ffd",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256638028,
+        "stop" : 1589256641178,
+        "duration" : 3150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "edb7688a25fef555",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256704321,
+        "stop" : 1589256712227,
+        "duration" : 7906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "c532531cf8f31f8d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187859999,
+        "stop" : 1589187869307,
+        "duration" : 9308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "e299e6072986437e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187976811,
+        "stop" : 1589187979420,
+        "duration" : 2609
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "7b97b10ff4b20e3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938162513,
+        "stop" : 1588938171478,
+        "duration" : 8965
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "b789dffc87db2f7a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187979420,
+        "stop" : 1589187981116,
+        "duration" : 1696
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "524704d46f04c1ff",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171515712,
+        "stop" : 1589171524495,
+        "duration" : 8783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "a8aeefa615dfcc39",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938264687,
+        "stop" : 1588938267348,
+        "duration" : 2661
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "8310ab218d45f56c",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171030511,
+        "stop" : 1589171032652,
+        "duration" : 2141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "d6ac543594f45709",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938254941,
+        "stop" : 1588938264683,
+        "duration" : 9742
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "d552ada7f33bbed8",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588938519941,
+        "stop" : 1588938520961,
+        "duration" : 1020
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "5d6b07d91d6786ab",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589193011678,
+        "stop" : 1589193012665,
+        "duration" : 987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "f1389dc30748f87",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171438655,
+        "stop" : 1589171439759,
+        "duration" : 1104
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "c591f2b679e04800",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256546821,
+        "stop" : 1589256549837,
+        "duration" : 3016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "2adfeefcece8c86d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589193142411,
+        "stop" : 1589193143574,
+        "duration" : 1163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "3585ce388c3d66f2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171524495,
+        "stop" : 1589171526863,
+        "duration" : 2368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "99092d15ccb4d8f3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171436515,
+        "stop" : 1589171438655,
+        "duration" : 2140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "dd2f786df56a4d3a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187869307,
+        "stop" : 1589187872059,
+        "duration" : 2752
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "99c67b13def4eeaf",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589192866329,
+        "stop" : 1589192867381,
+        "duration" : 1052
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "eb88f3875f5c06ae",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261171831,
+        "stop" : 1589261174243,
+        "duration" : 2412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "f48968186adabc8e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588934089972,
+        "stop" : 1588934097927,
+        "duration" : 7955
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "979a5e0c40251bd9",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589193132023,
+        "stop" : 1589193142411,
+        "duration" : 10388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "bac5cead929306c5",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256712228,
+        "stop" : 1589256715397,
+        "duration" : 3169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "2ceae611e64e39c6",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588934097928,
+        "stop" : 1588934100212,
+        "duration" : 2284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "e44a49691a14a430",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256775879,
+        "stop" : 1589256780209,
+        "duration" : 4330
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "c7ed814d61f0f0a4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938632289,
+        "stop" : 1588938640719,
+        "duration" : 8430
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "50b15fdf5e420ba0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588934100212,
+        "stop" : 1588934101389,
+        "duration" : 1177
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "a0c32093350a684c",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187968516,
+        "stop" : 1589187976811,
+        "duration" : 8295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "eb761a6581064a53",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171021247,
+        "stop" : 1589171030510,
+        "duration" : 9263
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "60619e699286c81b",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171427725,
+        "stop" : 1589171436514,
+        "duration" : 8789
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "824f13a695f685a8",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171708637,
+        "stop" : 1589171710898,
+        "duration" : 2261
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "d91f66d6fe0dcdc0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589193008940,
+        "stop" : 1589193011678,
+        "duration" : 2738
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "c4e90976544647a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938520965,
+        "stop" : 1588938529247,
+        "duration" : 8282
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "72b3502e5c78d351",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256715398,
+        "stop" : 1589256717775,
+        "duration" : 2377
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "3bb52695dfef73f5",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938267348,
+        "stop" : 1588938268848,
+        "duration" : 1500
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "e9d045d86f074752",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589192867382,
+        "stop" : 1589192875797,
+        "duration" : 8415
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "4f5c9a77fdb27bdf",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589192863118,
+        "stop" : 1589192866329,
+        "duration" : 3211
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "e21dfa015b40bee2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589193143574,
+        "stop" : 1589193146658,
+        "duration" : 3084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "276a04f587346d71",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256549838,
+        "stop" : 1589256551415,
+        "duration" : 1577
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "29a375612d3215d2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938171478,
+        "stop" : 1588938174738,
+        "duration" : 3260
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "50c732314a8566a2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938174738,
+        "stop" : 1588938176178,
+        "duration" : 1440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "2038d2124dc4b603",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256633531,
+        "stop" : 1589256638027,
+        "duration" : 4496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "c0f0d06348c1ffa1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256764966,
+        "stop" : 1589256775877,
+        "duration" : 10911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "ea9d582087285a78",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171676643,
+        "stop" : 1589171678705,
+        "duration" : 2062
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "7f1af4cea4c887ea",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589193012665,
+        "stop" : 1589193020213,
+        "duration" : 7548
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "e55edf77eb2580a0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171700022,
+        "stop" : 1589171708636,
+        "duration" : 8614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "331454f63c8fe7d1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589192929221,
+        "stop" : 1589192930317,
+        "duration" : 1096
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "58585ce771a58562",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589187872063,
+        "stop" : 1589187873727,
+        "duration" : 1664
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "f75086a251754e8a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1588938517081,
+        "stop" : 1588938519937,
+        "duration" : 2856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.18363" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "c94818a4e4f403ca",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171526864,
+        "stop" : 1589171528131,
+        "duration" : 1267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "e2c821f99f263dcd",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261158799,
+        "stop" : 1589261168307,
+        "duration" : 9508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "9cc75e8051493a60",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588938643989,
+        "stop" : 1588938645569,
+        "duration" : 1580
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "98dd20b788b10950",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171032652,
+        "stop" : 1589171033750,
+        "duration" : 1098
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "ad9ae0ddbb7aeca0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589171668450,
+        "stop" : 1589171676643,
+        "duration" : 8193
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "c13efc8dd585b2d5",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256537813,
+        "stop" : 1589256546816,
+        "duration" : 9003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-81.0.4044.138" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "1-1",
+    "children" : [ {
+      "name" : "Login To Application",
+      "uid" : "15c3960e5c3797d7",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261197590,
+        "stop" : 1589261199614,
+        "duration" : 2024
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "b82b694dbb5da848",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261187886,
+        "stop" : 1589261195129,
+        "duration" : 7243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Login To Application",
+      "uid" : "239319355fc24ab9",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256804591,
+        "stop" : 1589256806785,
+        "duration" : 2194
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify login Page title",
+      "uid" : "641ebb46527a86e5",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256794783,
+        "stop" : 1589256801923,
+        "duration" : 7140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "a5d763431fa74532",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256801924,
+        "stop" : 1589256804591,
+        "duration" : 2667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Verify SignUp Link",
+      "uid" : "17dfa521233ef3a4",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261195129,
+        "stop" : 1589261197590,
+        "duration" : 2461
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    } ],
+    "uid" : "7f515bb52d6d225c0a299e7d9c0e2786"
+  }, {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "Testing",
+      "uid" : "cc89f140088e30f",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589261176489,
+        "stop" : 1589261176633,
+        "duration" : 144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    }, {
+      "name" : "Testing",
+      "uid" : "baac71da023580d3",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589256782465,
+        "stop" : 1589256782682,
+        "duration" : 217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-10.0" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  } ]
+}

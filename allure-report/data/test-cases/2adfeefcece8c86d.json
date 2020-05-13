@@ -1,0 +1,142 @@
+{
+  "uid" : "2adfeefcece8c86d",
+  "name" : "Verify SignUp Link",
+  "fullName" : "Login Page Feature Test.Verify SignUp Link",
+  "historyId" : "6ac6c73fdfed42dd897a4012e5255cf3",
+  "time" : {
+    "start" : 1589193142411,
+    "stop" : 1589193143574,
+    "duration" : 1163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Command \"maximizeWindow\" is not yet implemented",
+  "statusTrace" : "Error: Command \"maximizeWindow\" is not yet implemented\n                    at Browser.retries (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\devtoolsdriver.js:75:15)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:30)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\test\\login.test.js:23:17)\n                    at Context.executeSync (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Command \"maximizeWindow\" is not yet implemented",
+    "statusTrace" : "Error: Command \"maximizeWindow\" is not yet implemented\n                    at Browser.retries (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\devtools\\build\\devtoolsdriver.js:75:15)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:30)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\test\\login.test.js:23:17)\n                    at Context.executeSync (C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace-JS\\WEBIO-App-POM-Framework\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193142423,
+        "stop" : 1589193143142,
+        "duration" : 719
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "undefined undefined",
+      "time" : {
+        "start" : 1589193143166,
+        "stop" : 1589193143570,
+        "duration" : 404
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SignUp Link"
+  }, {
+    "name" : "package",
+    "value" : "Login Page Feature Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.18363"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5d6b07d91d6786ab",
+      "status" : "broken",
+      "statusDetails" : "net::ERR_ABORTED at https://app.hubspot.com/",
+      "time" : {
+        "start" : 1589193011678,
+        "stop" : 1589193012665,
+        "duration" : 987
+      }
+    }, {
+      "uid" : "331454f63c8fe7d1",
+      "status" : "broken",
+      "statusDetails" : "net::ERR_ABORTED at https://app.hubspot.com/",
+      "time" : {
+        "start" : 1589192929221,
+        "stop" : 1589192930317,
+        "duration" : 1096
+      }
+    }, {
+      "uid" : "99c67b13def4eeaf",
+      "status" : "broken",
+      "statusDetails" : "net::ERR_ABORTED at https://app.hubspot.com/",
+      "time" : {
+        "start" : 1589192866329,
+        "stop" : 1589192867381,
+        "duration" : 1052
+      }
+    }, {
+      "uid" : "d552ada7f33bbed8",
+      "status" : "broken",
+      "statusDetails" : "net::ERR_ABORTED at https://app.hubspot.com/",
+      "time" : {
+        "start" : 1588938519941,
+        "stop" : 1588938520961,
+        "duration" : 1020
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2adfeefcece8c86d.json",
+  "parameterValues" : [ "Chrome-10.0.18363" ]
+}
