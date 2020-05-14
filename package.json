@@ -4,7 +4,7 @@
   "description": "This is end-to-end pom structure",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/wdio wdio.conf.js && npm run allure open",
+    "test": "./node_modules/.bin/wdio wdio.conf.js",
     "open-allure":"./node_modules/.bin/allure generate ./allure-results"
   },
   "author": "Madhu",
