@@ -1,0 +1,10 @@
+Please follow below Instruction Before Execution
+1. 3 Different Type of TC's are build. To see how multibrowser works use HubSpot_Login_Test and Salesforce Test and in wdio.conf.js file
+keep both the browsers
+
+2. I have also created Suites according to browsers, like what all TC's you want to execute in which browsers
+just make sure to change the browser name
+
+3. Please enter the username and Password while Executing POC_ReactJS_CreateGroup in DataFile_FB.Json
+
+4. Also create Util File , in case want to use custom actions

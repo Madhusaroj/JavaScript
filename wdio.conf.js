@@ -35,10 +35,15 @@ exports.config = {
     // directory is where your package.json resides, so `wdio` will be called from there.
     //
     specs: [
-        // './test/**/*.js'
+        './test/**/*.js'
 
-        './test/windowActions.js'
+        // './test/windowActions.js'
     ],
+
+    suites:{ExecuteInChrome:['./test/POC_ReactJS_CreateGroup.js'], ExecuteInFirefox:['./test/HubSpot_Login_Test.js'], ExecuteInBoth:['./test/Salesforce_WindowActions.js']},
+
+
+
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
@@ -72,8 +77,9 @@ exports.config = {
             // grid with only 5 firefox instances available you can make sure that not more than
             // 5 instances get started at a time.
             maxInstances: 2,
-            browserName: 'chrome'
-        }
+            browserName: 'chrome',
+            'goog:chromeOptions': { args: [ 'disable-infobars', 'disable-popup-blocking', 'disable-notifications' ], }
+        },
         // {
         //     maxInstances: 2,
         //     browserName: 'firefox'
@@ -134,9 +140,6 @@ exports.config = {
 
     services: ['selenium-standalone']
     ,
-
-
-
 
 
     // Framework you want to run your specs with.

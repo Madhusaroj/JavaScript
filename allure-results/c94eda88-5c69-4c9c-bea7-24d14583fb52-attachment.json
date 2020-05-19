@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Sign up\"}\n  (Session info: chrome=81.0.4044.129)",
-  "stacktrace": "Backtrace:\n\tOrdinal0 [0x010B5F73+2449267]\n\tOrdinal0 [0x00FE8361+1606497]\n\tOrdinal0 [0x00EDF969+522601]\n\tOrdinal0 [0x00E78D18+101656]\n\tOrdinal0 [0x00E948B0+215216]\n\tOrdinal0 [0x00E89FE0+172000]\n\tOrdinal0 [0x00E9326C+209516]\n\tOrdinal0 [0x00E89E5B+171611]\n\tOrdinal0 [0x00E71DD8+73176]\n\tOrdinal0 [0x00E72E50+77392]\n\tOrdinal0 [0x00E72DE9+77289]\n\tOrdinal0 [0x00FFD8D7+1693911]\n\tGetHandleVerifier [0x01154036+522726]\n\tGetHandleVerifier [0x01153D74+522020]\n\tGetHandleVerifier [0x01169187+609079]\n\tGetHandleVerifier [0x011548A6+524886]\n\tOrdinal0 [0x00FF5CBC+1662140]\n\tOrdinal0 [0x00FFF23B+1700411]\n\tOrdinal0 [0x00FFF3A3+1700771]\n\tOrdinal0 [0x01015215+1790485]\n\tBaseThreadInitThunk [0x776D6359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B87C14+228]\n\tRtlGetAppContainerNamedObjectPath [0x77B87BE4+180]\n"
-}
