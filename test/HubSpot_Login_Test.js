@@ -6,7 +6,8 @@
 
 //const request = require('request');
 const lp = require('../pages/HubSpot_Login_Page.js')
-
+const configData = require('../config.js')
+const constantData = require('../constants.js')
 
 describe('Login Page Feature Test',function()
 {

@@ -7,4 +7,6 @@ just make sure to change the browser name
 
 3. Please enter the username and Password while Executing POC_ReactJS_CreateGroup in DataFile_FB.Json
 
-4. Also create Util File , in case want to use custom actions
+4. Please enter the username and pwd in config.js file while executing HubSpot Testcase
+
+5. Also create Util File , in case want to use custom actions
